@@ -1,24 +1,38 @@
-Assignment: CSS Hell
+Gutenberg Stories - Part I
 ====================
 
-The 3 project gutenberg stories are as follows:
+- peter_pan.html
+ - from http://www.gutenberg.org/files/16/16-h/16-h.htm
+ - screenshot is peter_pan.jpg
 
-peter_pan.html (from http://www.gutenberg.org/files/16/16-h/16-h.htm)
+- jungle_book.html
+ - from http://www.gutenberg.org/files/236/236-h/236-h.htm
+ - screenshot is jungle_book.jpg
 
-jungle_book.html (from http://www.gutenberg.org/files/236/236-h/236-h.htm)
+- wizard_of_oz.html
+ - from http://www.gutenberg.org/files/55/55-h/55-h.htm
+ - screenshot is wizard_of_oz.jpg
 
-wizard_of_oz.html (from http://www.gutenberg.org/files/55/55-h/55-h.htm)
+- all of the above use the css file gutenberg.css
+ - mostly copied from the original gutenburg html files
+ - modified by Dylan Stankievech to give an old yellowed parchment appearance
 
-all of which use the css file gutenberg.css (mostly copied from the original gutenburg html files)
+Personal Page - Part II
+====================
 
+- dylan_good.html
+ - my good personal page
+ - uses good.css
+ - screenshot is dylan_good.jpg
 
-My good personal page is: dylan_good.html
+- dylan_bad.html
+ - my bad personal page
+ - uses bad.css
+ - dancing hamster gif from http://pethamstercare.com/hamster-gifs/dancing-hamsters-4/
+ - screenshot is dylan_bad.jpg
 
-My bad personal page is: dylan_bad.html
-
-They use good.css and bad.css respectively
-
-The bad version uses a dancing hamster gif from http://pethamstercare.com/hamster-gifs/dancing-hamsters-4/
+- picture of myself taken by Whitney Cowan
+ - https://www.facebook.com/WhitneyCowanPhotography
 
 License/Copyright
 =================
