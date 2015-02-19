@@ -15,7 +15,9 @@ Gutenberg Stories - Part I
 
 - all of the above use the css file gutenberg.css
  - base css file copied from the styling of the original gutenburg html files
- - modified by Dylan Stankievech to give an old yellowed parchment appearance, with serif font and some horizontal padding to give the appearance of a more skinny scroll
+ - body tags now have an old yellowed parchment background appearance
+ - headers now have serif font and underlining
+ - paragraphs have serif font and some horizontal padding to give the appearance of a skinny scroll
 
 Personal Page - Part II
 ====================
