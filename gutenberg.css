@@ -2,7 +2,6 @@ body {
     margin:5%;
     background:#D6F272;
     text-align:justify
-    
 }
 
 P {
@@ -17,6 +16,7 @@ H1,H2,H3,H4,H5,H6 {
     margin-left: 15%;
     margin-right: 15%;
     font-family: serif;
+    text-decoration: underline;
 }
 
 hr  {
