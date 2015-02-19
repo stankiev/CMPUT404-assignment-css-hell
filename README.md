@@ -14,8 +14,8 @@ Gutenberg Stories - Part I
  - screenshot is wizard_of_oz.jpg
 
 - all of the above use the css file gutenberg.css
- - mostly copied from the original gutenburg html files
- - modified by Dylan Stankievech to give an old yellowed parchment appearance
+ - base css file copied from the styling of the original gutenburg html files
+ - modified by Dylan Stankievech to give an old yellowed parchment appearance, with serif font and some horizontal padding to give the appearance of a more skinny scroll
 
 Personal Page - Part II
 ====================
@@ -43,6 +43,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 HTML and CSS files added by Dylan Stankievech copyright 2015
 
-Code is licensed under the Apache 2.0 license.
+Textual content of peter_pan.html, jungle_book.html, and wizard_of_oz.html are from http://www.gutenberg.org/ under the CC-BY-SA 4.0 unported license.
+
+Code is licensed under the Apache 2.0 license by Dylan Stankievech
 
 
