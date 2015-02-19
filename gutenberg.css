@@ -1,0 +1,53 @@
+body {
+    margin:5%;
+    background:#D6F272;
+    text-align:justify
+}
+
+P {
+    text-indent: 1em;
+    margin-top: .25em;
+    margin-bottom: .25em;
+}
+
+H1,H2,H3,H4,H5,H6 {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: serif;
+}
+
+hr  {
+    width: 50%;
+    text-align: center;
+}
+    
+.foot {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    text-indent: -3em;
+    font-size: 90%;
+}
+
+blockquote {
+    font-size: 97%;
+    font-style: italic;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+    
+.toc       {
+    margin-left: 10%;
+    margin-bottom: .75em;
+}
+    
+.toc2      {
+    margin-left: 20%;
+}    
+    
+pre     {
+    font-style: italic;
+    font-size: 90%;
+    margin-left: 10%;
+}

@@ -1,0 +1,68 @@
+body {
+    background-image: url("dancing-hamster.gif");
+    background-repeat: repeat;
+}
+
+div.header {
+    height: 50px;
+    background: #F0F0F0;
+    border: 1px solid #CCC;
+    width: 100%;
+    margin: 0px auto;
+    background: purple;
+}
+div.header-text {
+    text-align:center;
+    padding: 5px 0px;
+    font-size: 200%;
+    font-family: times, Times New Roman, times-roman, georgia, serif;
+    font-weight: bold;
+}
+
+div.main-content {
+    float:left;
+    width:45%;
+    text-align: center;
+    background: white;
+}
+
+div.main-content p {
+    padding: 10px 10px;
+}
+
+div.side-content {   
+    float:right;
+    width:50%;
+    text-align: center;
+    background: white;
+}
+
+div.side-content h1 {
+    border-bottom: 2px dashed #222;
+}
+
+ul.projects {    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ 
+ul.projects li {
+    padding: 5px 10px;
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #555;
+    background: white;
+}
+
+div.proj-name {
+    font-size:80%;
+    font-weight:bold;
+}
+
+div.proj-description {
+    font-size: 60%;
+}
+
+img.picture {
+    float: left;
+}
